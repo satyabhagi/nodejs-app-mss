@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://172.31.40.76:8999/mithuntechnologies/repository/nodejs-mss-repo/"
+    "registry": "http://13.233.161.224:8999/bhargavi/repository/nodejsmssrepos/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
